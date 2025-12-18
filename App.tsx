@@ -112,10 +112,10 @@ const App: React.FC = () => {
           </h1>
           <div className="flex items-center gap-4 mt-6">
             <span className="text-emerald-600 font-bold text-sm tracking-[0.4em] uppercase">
-              3D 视觉展示实验室
+              踏入巨木之森
             </span>
             <div className="h-[1px] w-12 bg-emerald-500/30" />
-            <span className="text-emerald-800/40 text-[10px] font-mono tracking-tighter">PORTFOLIO V2.0</span>
+            <span className="text-emerald-800/40 text-[10px] font-mono tracking-tighter">搭配接力2.0第二届</span>
           </div>
         </div>
 
@@ -218,7 +218,7 @@ const App: React.FC = () => {
 
               <div className="flex gap-4">
                 <div className="flex-1 space-y-2">
-                  <label className="text-[10px] uppercase font-black text-emerald-600/60 tracking-widest ml-1">作品名称</label>
+                  <label className="text-[10px] uppercase font-black text-emerald-600/60 tracking-widest ml-1">作者名称</label>
                   <input 
                     type="text" 
                     value={editingWork.name}
