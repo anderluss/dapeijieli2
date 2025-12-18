@@ -1,0 +1,7 @@
+{
+  "name": "森影视觉 - 3D 创意作品集实验室",
+  "description": "高端 3D 作品集展示与管理工具。沉浸在富有呼吸感的森林美学 3D 空间中，管理并展示您的视觉产品。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
